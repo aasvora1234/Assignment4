@@ -1,0 +1,12 @@
+
+# Python Data Engineering
+pyspark==3.5.0
+delta-spark==3.0.0
+pandas
+numpy
+faker
+psycopg2-binary
+
+# Airflow
+apache-airflow-providers-postgres
+apache-airflow-providers-apache-spark

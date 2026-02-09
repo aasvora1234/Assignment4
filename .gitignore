@@ -1,0 +1,15 @@
+# Data directories
+data/
+airflow/logs/
+spark/logs/
+spark/jars/
+
+# Environment files
+.env
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Docker
+docker-compose.override.yml
